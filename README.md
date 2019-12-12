@@ -1,5 +1,5 @@
 # Battleships
-University project of a battleships game created in 3rd semester
+University project of a battleships game created in 3rd semester with 3 of my fellow students
 
 ![image](https://user-images.githubusercontent.com/52599177/70725411-9ed02980-1cfc-11ea-93cb-ffecccb82759.png)
 
