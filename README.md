@@ -1,5 +1,8 @@
 # Battleships
-University project of a battleships game created in 3rd semester with 3 fellow students
+
+This is a university project of a Battleships game created in the 3rd semester of my Computer Science bachelor's degree in collaboration with 3 fellow students.
+
+The project was built using JavaFX. I was responsible for setting up the project structure and everything related to UI/UX.
 
 ![image](https://user-images.githubusercontent.com/52599177/70725411-9ed02980-1cfc-11ea-93cb-ffecccb82759.png)
 
